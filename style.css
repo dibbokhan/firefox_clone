@@ -1,0 +1,93 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(74, 73, 73);
+}
+.nav {
+    height: 50px;
+    display: flex;
+    
+
+}
+#ro {
+    transform: rotate(180deg);
+}
+.nav a {
+    padding: 10px;
+    padding-top: 30px;
+    
+}
+#img {
+    margin-top: 15px;
+}
+.nav input {
+   
+   height: 30px;
+    width: 62vw;
+    margin-top: 10px;
+    margin-left: 7vw;
+    background-color: rgb(33, 32, 32);
+    border-radius: 3px;
+    color: beige;
+
+}
+#img2 {
+    margin-top: 15px;
+    margin-left: 10vw;
+    position: absolute;
+    right: 10px;
+}
+.icon {
+    text-align: center;
+    margin: 30px;
+
+}
+.input {
+    text-align: center;
+}
+.input input{
+    text-align: center;
+    height: 50px;
+    width: 50vw;
+    background-color: rgb(66, 64, 64);
+    border-radius: 3px;
+    color: beige;
+}
+.contant {
+    position: absolute;
+    left: 20vw;
+    display: flex;
+    margin-top: 30px;
+    
+    
+}
+.contant a{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    margin: 20px;
+    text-align: center;
+    border-radius: 5px;
+}
+.setting {
+    position: absolute;
+    right: 18px;
+    margin-top: 5px;
+}    
+.Started {
+    margin-bottom: 2px;
+    color: aliceblue;
+    text-decoration: none;
+    margin-left: 7px;
+    display: flex;
+
+}
+.Started a {
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 13px;
+    display: flex;
+    /* width: 8vw; */
+
+}
+.Started a pre {
+    margin-top: 1px;
+}
